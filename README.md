@@ -24,7 +24,7 @@ Users should be able to:
 
 
 ### Screenshot
-![image](https://github.com/EamonnHegarty/qr-code-component/assets/91144434/0fdd6513-499b-4f5c-ac18-3b2fefaee170)
+![image](https://github.com/EamonnHegarty/qr-code-component/assets/91144434/49512883-8098-4570-8687-9544ba6688a0)
 
 
 ### Links
